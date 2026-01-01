@@ -23,8 +23,13 @@ A Python analog clock using **Pygame**, featuring:
 
 ## Screenshot
 
-![Analog Clock Screenshot](ScreenShots\Analoge_Clock_With_Digital_2026_glowing_LED_pro.png)
+![Analog Clock Screenshot](ScreenShots/Analoge_Clock_With_Digital_2026.png)
+OLD VERSION
 
+
+
+![Analog Clock Screenshot](ScreenShots/Analoge_Clock_With_Digital_2026_glowing_LED_pro.png)
+NEW VERSION
 
 ---
 
